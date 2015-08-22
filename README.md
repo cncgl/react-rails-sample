@@ -18,6 +18,7 @@
 $ git clone https://github.com/cncgl/react-rails-sample.git
 $ cd react-rails-sample
 $ bundle install --path vendor/bundle
+$ rake db:migrate
 $ rasils s
 ```
 
