@@ -24,7 +24,9 @@ pickle-email-*.html
 /tmp
 
 # TODO Comment out these rules if you are OK with secrets being uploaded to the repo
+# Rails < 4.0
 config/initializers/secret_token.rb
+# Rails >= 4.1
 config/secrets.yml
 
 ## Environment normalisation:
