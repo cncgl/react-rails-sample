@@ -20,6 +20,12 @@ Assume rails, rake, bundler is installed globaly.
 $ git clone https://github.com/cncgl/react-rails-sample.git
 $ cd react-rails-sample
 $ bundle install
+$ mv config/secrets.yml.sample config/secrets.yml
+$ rake secrets
+dfasfsdfasdfsfsa(....
+```
+copy and paste output token to config/secrets.yml 
+```
 $ rake db:migrate
 $ rasils s
 ```
