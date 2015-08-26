@@ -2,15 +2,11 @@
 
 ## Overview
 
+Sample of react_rails.
+
 ## Description
 
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
+React tutorial with Rails.
 
 ## Install
 
